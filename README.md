@@ -1,16 +1,9 @@
-# myapp
+# QRollCall
 
-A new Flutter project.
+QRollCall is a QR Attendance Tracking App built with Flutter. It allows users to scan QR codes and tracks attendance based on the scanned data.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Scan QR codes using the device's camera
+- Display a dialog with the scanned code
+- Track attendance based on the scanned QR codes
