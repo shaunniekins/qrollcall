@@ -3,6 +3,8 @@ import 'package:flutter_sticky_header/flutter_sticky_header.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 class ReportPage extends StatefulWidget {
+  const ReportPage({super.key});
+
   @override
   _ReportPageState createState() => _ReportPageState();
 }

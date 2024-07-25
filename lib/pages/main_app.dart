@@ -5,7 +5,7 @@ import 'package:qrollcall/pages/report_page.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 class MainApp extends StatefulWidget {
-  const MainApp({Key? key}) : super(key: key);
+  const MainApp({super.key});
 
   @override
   _MainAppState createState() => _MainAppState();
